@@ -1,0 +1,30 @@
+C:\Users\John\Desktop\Week1\HW2 Code tracing training\UML-Editor\UMLEditor\UMLEditor\bin\Debug\UML Editor.exe.config
+C:\Users\John\Desktop\Week1\HW2 Code tracing training\UML-Editor\UMLEditor\UMLEditor\bin\Debug\UML Editor.exe
+C:\Users\John\Desktop\Week1\HW2 Code tracing training\UML-Editor\UMLEditor\UMLEditor\bin\Debug\UML Editor.pdb
+C:\Users\John\Desktop\Week1\HW2 Code tracing training\UML-Editor\UMLEditor\UMLEditor\bin\Debug\MetroFramework.Design.dll
+C:\Users\John\Desktop\Week1\HW2 Code tracing training\UML-Editor\UMLEditor\UMLEditor\bin\Debug\MetroFramework.dll
+C:\Users\John\Desktop\Week1\HW2 Code tracing training\UML-Editor\UMLEditor\UMLEditor\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\John\Desktop\Week1\HW2 Code tracing training\UML-Editor\UMLEditor\UMLEditor\obj\Debug\UMLEditor.csprojAssemblyReference.cache
+C:\Users\John\Desktop\Week1\HW2 Code tracing training\UML-Editor\UMLEditor\UMLEditor\obj\Debug\UMLEditor.UMLEditorForm.resources
+C:\Users\John\Desktop\Week1\HW2 Code tracing training\UML-Editor\UMLEditor\UMLEditor\obj\Debug\UMLEditor.Properties.Resources.resources
+C:\Users\John\Desktop\Week1\HW2 Code tracing training\UML-Editor\UMLEditor\UMLEditor\obj\Debug\UMLEditor.Views.Dialogs.RenameDialog.resources
+C:\Users\John\Desktop\Week1\HW2 Code tracing training\UML-Editor\UMLEditor\UMLEditor\obj\Debug\UMLEditor.csproj.GenerateResource.cache
+C:\Users\John\Desktop\Week1\HW2 Code tracing training\UML-Editor\UMLEditor\UMLEditor\obj\Debug\UMLEditor.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\Week1\HW2 Code tracing training\UML-Editor\UMLEditor\UMLEditor\obj\Debug\UMLEditor.csproj.CopyComplete
+C:\Users\John\Desktop\Week1\HW2 Code tracing training\UML-Editor\UMLEditor\UMLEditor\obj\Debug\UML Editor.exe
+C:\Users\John\Desktop\Week1\HW2 Code tracing training\UML-Editor\UMLEditor\UMLEditor\obj\Debug\UML Editor.pdb
+\\Mac\Home\Documents\UML-Editor\UMLEditor\UMLEditor\bin\Debug\UML Editor.exe.config
+\\Mac\Home\Documents\UML-Editor\UMLEditor\UMLEditor\bin\Debug\UML Editor.exe
+\\Mac\Home\Documents\UML-Editor\UMLEditor\UMLEditor\bin\Debug\UML Editor.pdb
+\\Mac\Home\Documents\UML-Editor\UMLEditor\UMLEditor\bin\Debug\MetroFramework.Design.dll
+\\Mac\Home\Documents\UML-Editor\UMLEditor\UMLEditor\bin\Debug\MetroFramework.dll
+\\Mac\Home\Documents\UML-Editor\UMLEditor\UMLEditor\bin\Debug\MetroFramework.Fonts.dll
+\\Mac\Home\Documents\UML-Editor\UMLEditor\UMLEditor\obj\Debug\UMLEditor.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\UML-Editor\UMLEditor\UMLEditor\obj\Debug\UMLEditor.UMLEditorForm.resources
+\\Mac\Home\Documents\UML-Editor\UMLEditor\UMLEditor\obj\Debug\UMLEditor.Properties.Resources.resources
+\\Mac\Home\Documents\UML-Editor\UMLEditor\UMLEditor\obj\Debug\UMLEditor.Views.Dialogs.RenameDialog.resources
+\\Mac\Home\Documents\UML-Editor\UMLEditor\UMLEditor\obj\Debug\UMLEditor.csproj.GenerateResource.cache
+\\Mac\Home\Documents\UML-Editor\UMLEditor\UMLEditor\obj\Debug\UMLEditor.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\UML-Editor\UMLEditor\UMLEditor\obj\Debug\UMLEditor.csproj.CopyComplete
+\\Mac\Home\Documents\UML-Editor\UMLEditor\UMLEditor\obj\Debug\UML Editor.exe
+\\Mac\Home\Documents\UML-Editor\UMLEditor\UMLEditor\obj\Debug\UML Editor.pdb

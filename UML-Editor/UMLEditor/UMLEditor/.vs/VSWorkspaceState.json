@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Modes",
+    "\\Pseudo",
+    "\\Shapes",
+    "\\Shapes\\ConnectionLines",
+    "\\Views",
+    "\\Views\\ContextMenuComponents",
+    "\\Views\\ContextMenuComponents\\EditContextMenu",
+    "\\Views\\ContextMenuComponents\\FileContextMenu",
+    "\\Views\\ToolbarComponents"
+  ],
+  "SelectedNode": "\\Pseudo\\Combination.cs",
+  "PreviewInSolutionExplorer": false
+}
